@@ -1,6 +1,8 @@
 # THERMIC  
 **Thermal Resistance Modeling and Inactivation Calculator**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17689258.svg)](https://doi.org/10.5281/zenodo.17689258)
+
 THERMIC is an R/Shiny application designed to model and analyze thermal inactivation of microorganisms using D-values and z-values. It integrates individual and mixed-effects models, supports uncertainty quantification, and provides interactive visualizations to explore the impact of temperature and other factors on microbial survival.
 
 This repository contains:
