@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use THERMIC in your research, please cite it using the following metadata."
+title: "THERMIC: Thermal Resistance Modeling and Inactivation Calculator"
+authors:
+  - family-names: "Guyot"
+    given-names: "Stéphane"
+    affiliation: "Institut Agro Dijon / UBE – UMR PAM, team PMB"
+repository-code: "https://github.com/SGuyot21000/thermic-app"
+version: "1.0.0"
+date-released: "2025-02-01"
+license: "GPL-3.0"
+keywords:
+  - thermal inactivation
+  - predictive microbiology
+  - D-values
+  - Shiny application
+  - food microbiology
